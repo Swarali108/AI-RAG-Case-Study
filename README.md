@@ -8,7 +8,7 @@
 ![Domain](https://img.shields.io/badge/domain-RAG_·_LLM-9b5cff)
 ![Read_time](https://img.shields.io/badge/read-~6_min-65b8ff)
 
-📦 **App repo:** [AI-RAG-Research-Assistant](https://github.com/Swarali603/AI-RAG-Research-Assistant) · 🧠 **System design:** [AI-RAG-System-Design](https://github.com/Swarali603/AI-RAG-System-Design)
+📦 **App repo:** [AI-RAG-Research-Assistant](https://github.com/Swarali603/AI-RAG-Research-Assistant) · 🧠 **System design:** [AI-RAG-System-Design](https://github.com/Swarali108/AI-RAG-System-Design)
 
 </div>
 
